@@ -1,5 +1,5 @@
 ---
-name: Term of use 
+name: Terms of Use 
 ---
 
 ## Term of use
