@@ -1,64 +1,55 @@
 ---
-name: RFQ (Request For Quotation)
+name: Terms of Use (Crewing)
 ---
 
-# RFQ (Request For Quotation)
+## Terms of Use (Crewing)
 
-##  How to send a RFQ (Request For Quotation)?
+### Crewing
 
-MOL’s RFQ (Request For Quotation) had been designed to satisfy the Buyers (primarily Shipowners) maritime business operations, improve efficiency and productivity. The RFQ is a high-end request for quotation service which as a buyer, you will only need to fill up a simple request form specifying your requirements. MOL will send your RFQ automatically to the group of Suppliers whom match your requirements. You will be able to receive multiple quotations to compare the prices, payment methods/ terms and shortlist your supplier to complete the transaction. To make use of the RFQ Function, you may go to MOL’s homepage, under Marine Online’s logo > Click “Place an order” > Select the Platform to send the RFQ. Alternatively, you may go to the individual platform’s homepage by clicking “Send Enquiry/ Send RFQ/ Get a Quote/ Send Purchase Enquiry/ Add Cargo” (For Chartering platform only) to send the RFQ.
+By registering onto, browsing or usage of the website ecrewingonline.com (hereinafter referred to as the "Site") Users shall be deemed to have unconditionally and unreservedly agreed to comply with the terms and conditions set out below.
 
+### TERMS AND CONDITIONS APPLICABLE TO ALL USERS
 
-##  My RFQ (Request For Quotation) will be send to who? Can I choose to send to a particular supplier?
+1. In the usage of the Site and the services provided to a User through the Site:
 
-Your RFQ (Request For Quotation) will automatically filter out the matching Suppliers based on the service category and port/ location. You may click the “RFQ Open Range” in the RFQ form to view all the matched Suppliers; you may select or unselect the Supplier(s) from the list and click Submit before sending your RFQ.
+a. The User shall not in any circumstances engage in any activity (including but not limited to the posting of information, images, links or documents) that may directly or indirectly harm, delay, disrupt or damage the Site and/or the services provided through the Site and/or the operation thereof, and the User shall be personally liable (both criminal and civil liabilities) for the consequence of any such activity;
 
-##  What kind of information do I need to provide in the RFQ?
+b. The User shall not in any circumstances provide any false or fictitious information (whether by the posting of information, images, links or documents), the User shall be personally responsible for the content of all information provided, and the User shall be personally liable (both criminal and civil liabilities) for the consequence of providing any such false or fictitious information;
 
-To simplify the RFQ’s form, MOL only retain the necessary information to ensure that the Suppliers will be able to provide the quotation accurately based on the information you provided.
+c. The User shall not in any circumstances engage in any activity (including but not limited to the posting of information, images, links or documents) that would infringe any law applicable to the Site or the User, and the User shall be personally liable (both criminal and civil liabilities) for any such infringement of any applicable law;
 
-Please provide the RFQ information as specific as possible. You can enter the information by manual entry based on the individual platforms or by upload file using the Attachments function in the RFQ form.
+d. The User shall not in any circumstances engage in any activity (including but not limited to the posting of information, images, links or documents) that may be offensive to public morality, sexual orientation, religious, racial and/or social sensitivity of other Users, and the User shall be personally liable (both criminal and civil liabilities) for the consequence of any such activity;
 
-##  How to set the RFQ Validity/ Cargo Expiry Date?
+e. The User shall not in any circumstances use sexually explicit material (including but not limited to the posting of information, images, links or documents) and the User shall be personally liable (both criminal and civil liabilities) for the consequence of any such usage;
 
-**RFQ Validity Date:**
+f. The User shall not in any circumstances engage in any activity (including but not limited to the posting of information, images, links or documents) that may directly or indirectly cause harm, damage or injury to the body, property, reputation, business, intellectual property rights, and/or any other legal rights of any third party or person, and the User shall be personally liable (both criminal and civil liabilities) for the consequence of any such activity;
 
-It can be set under the RFQ Validity section in the RFQ form. There are two options:
+g. The User shall indemnify and hold harmless the Site, its Owner, operator, manager, servants and agents from all losses, damages, expenses, claims, proceedings and liabilities howsoever suffered and/or incurred in connection with and/or in relation to and/or arising from any non-compliance of the User in relation to any of the prohibitions stipulated in the sub-clauses above
 
--	Enter “days”, “hours” and “minutes”
--	Others, select calendar date and time
+2. The User hereby:
 
-**Cargo Expiry Date: (For Chartering platform only)**
+a. consents, authorizes and permits the Site its Owner, operator, manager, servants and agents, to collect, use or disclose any personal data collected by the Site from the User in connection with the purposes set out in the Site’s Data Protection Policy (as updated from time to time, or as is otherwise required or permitted in accordance with applicable law), and in accordance with the PDPA provided that any collection, use or disclosure of the personal data are for the purposes of the facilities/services provided by the Site;
 
-It can be set under the Cargo Expiry section in the Add Cargo form. There are six options:
+b. (in the case of personal data provided by the User to the Site) represents and warrants to the Site that the User has notified the relevant individual of the purposes set out in the Site’s Data Protection Policy (as updated from time to time), and has obtained the relevant individual's consent for the collection, use and disclosure of his or her personal data by the Site in connection with the purposes set out in the Site’s Data Protection Policy, and in accordance with the PDPA;
 
--	15 Days
--	7 Days
--	3 Days
--	1 Day
--	12 hours
--	Others, manual enter the expiry time
+c. agrees and undertakes that, to the extent it provides personal data to the Site and it has not obtained the requisite consent referred to in sub-clause (b) above in respect thereof, it shall, promptly upon providing the relevant personal data to the Site, procure all necessary notifications will be made to, and all authorizations and consents will be obtained from, the relevant individuals as may be required in accordance with the PDPA; and
 
-##  What is the payment method of the RFQ?
+d. agrees and undertakes to notify the Site promptly upon its becoming aware of the withdrawal by the relevant individual of its consent to the collection, use and/or disclosure by the Site of any personal data provided by the User to the Site.
 
-As a buyer (Shipowner), you can manually enter your payment requirement or expectation in the RFQ form, so the Suppliers will be able to know your requirement and decide if they can support your requirement in their quotation. This can be one of the considering factors before you select the Supplier.
+e. For the purposes of this Clause 2:
 
-##  Can I hide my company information in the RFQ?
+f. “PDPA” means the Personal Data Protection Act 2012 (Act 26 of 2012) of Singapore or equivalent legislation under any applicable law;
 
-You will be able to hide your company information in the RFQ by tick on the option, “Hide Information” under Company Information section. However, hiding your company information may cause you to receive lesser quotations.
+g. “personal data” has the meaning given to such term in the PDPA.
 
-##  After I send the RFQ, how do I manage it? Can I make amendment or delete it?
+3. The Site reserves its rights, in its absolute and unfettered discretion, to do any and/or all of the following in relation to the Site and the usage thereof, with or without prior notice to the User:
 
-You will be able to manage your RFQ under Order Management after you had sent it to the Suppliers. 
+a. To change the rate of fees payable;
 
--	To amend the RFQ (without appointed a Quotation): Go to My MOL > My Enquiry > Open tab > Click Modify
+b. To change the scope and nature of the services provided through the Site;
 
-	Note: If there is a Quotation already appointed, you will not be allowed to modify the RFQ. 
+c. To refuse or disallow the registration of any User, including the de-registration of any User;
 
--	To delete the RFQ, Go to My MOL > My Enquiry > Open/ Appointed/ Completed/ Cancelled/ Expired/ All tab > Click Cancel Order
+d. To remove any information or material provided by any User, which the Site, in its absolute and unfettered discretion, considers to be undesirable or in breach of any of the prohibitions stated above;
 
-	Note: For Open RFQ, you may cancel the order anytime. For Appointed RFQ, you will need to have mutual agreement with the Supplier to cancel the order, otherwise it may lead to dispute.
-
-
-
-
+e. To amend and/or supplement the Terms and Conditions herein.
