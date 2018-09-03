@@ -217,11 +217,13 @@ ii.	would like to withdraw your consent to any use of your Personal Data as set 
 
 iii.	would like to obtain access and make corrections to your Personal Data records
 
+
 Please contact **Marine Online Pte Ltd** as follows:
 
 Email: customercare@emarineonline.com
 
 Call: +65 6571 5888 (Customer Service Hotline)
+
 
 **Write in:**
 
@@ -230,6 +232,7 @@ Data Protection Officer
 10, Paris Panjang Road, #15/16-01/02,
 
 Mapletree Business City, Singapore, 117438
+
 
 9.2 Please note that if your Personal Data has been provided to us by a third, you should contact that individual to make such queries, complaints, and access and correction requests to Marine Online on your behalf.
 
