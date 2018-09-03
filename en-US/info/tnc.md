@@ -19,7 +19,7 @@ Access to and use of password protected and/or secure areas of the Platform and/
 
 Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use.
 
-## 2. General use of Services and/or access of Platform
+### 2. General use of Services and/or access of Platform
 
 2.1 Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
 
