@@ -2,7 +2,7 @@
 name: Terms of Use 
 ---
 
-## Term of use
+## Terms of Use
 
 Welcome to the www.emarineonline.com website and/or the Marine Online mobile app. 
 
