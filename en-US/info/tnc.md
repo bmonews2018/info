@@ -185,7 +185,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 ### Schedule 1 
 
-Definitions and Interpretation 
+**Definitions and Interpretation**
 
 1. Definitions. Unless the context otherwise requires, the following expressions shall have the following meanings in these Terms of Use:
 
