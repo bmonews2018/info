@@ -235,6 +235,7 @@ Data Protection Officer
 
 Mapletree Business City, Singapore, 117438
 
+<br>
 
 9.2 Please note that if your Personal Data has been provided to us by a third, you should contact that individual to make such queries, complaints, and access and correction requests to Marine Online on your behalf.
 
