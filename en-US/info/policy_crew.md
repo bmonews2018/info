@@ -71,7 +71,7 @@ viii.	project management;
 
 ix.	providing media announcements and responses;
 
-x.	organizing promotional events; marketing purposes (Online/Offline )
+x.	organizing promotional events; marketing purposes (Online/Offline)
 
 xi.	in connection with any claims, actions or proceedings (including but not limited to drafting and reviewing documents, transaction documentation, obtaining legal advice, and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
 
