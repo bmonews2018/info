@@ -6,7 +6,7 @@ name: Terms of Use (Crewing)
 
 ### Crewing
 
-By registering onto, browsing or usage of the website ecrewingonline.com (hereinafter referred to as the "Site") Users shall be deemed to have unconditionally and unreservedly agreed to comply with the terms and conditions set out below.
+By registering onto, browsing or usage of the website [ecrewingonline.com](ecrewingonline.com) (hereinafter referred to as the "Site") Users shall be deemed to have unconditionally and unreservedly agreed to comply with the terms and conditions set out below.
 
 ### TERMS AND CONDITIONS APPLICABLE TO ALL USERS
 
