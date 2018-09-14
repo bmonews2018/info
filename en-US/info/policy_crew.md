@@ -201,7 +201,7 @@ xi.	any other party to whom you authorise us to disclose your Personal Data to.
 
 ### 7.  Anti-Spam
 
-7.1 If you receive spam messages and want to report it to us, please forward the message you have received to customercare@emarineonline.com
+7.1 If you receive spam messages and want to report it to us, please forward the message you have received to [customercare@emarineonline.com](mailto:customercare@emarineonline.com).
 
 ### 8.  Third-Party Sites
 
@@ -221,7 +221,7 @@ iii.	would like to obtain access and make corrections to your Personal Data reco
 
 Please contact **Marine Online Pte Ltd** as follows:
 
-Email: customercare@emarineonline.com
+Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 
 Call: +65 6571 5888 (Customer Service Hotline)
 
