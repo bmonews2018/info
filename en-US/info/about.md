@@ -4,7 +4,7 @@ name: About Crewing Online
 
 ## About Crewing Online
 
-![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/30f16a50-f9fd-11e8-8535-97a67f84562c.jpg)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/83d95d30-f9fe-11e8-8535-97a67f84562c.jpg)
 
 Crewing Online is an intergrated e-commerce online platform under Marine Online, an innovative E-Commerce platform.
 
