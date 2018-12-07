@@ -16,7 +16,7 @@ Operating hours: 8am to 9.30pm, Monday to Friday (Closed on Saturday, Sunday and
 
 <br>
 
-### Marine Online Pte Ltd
+### Marine Online Pte. Ltd.
 
 **Address:**
 
