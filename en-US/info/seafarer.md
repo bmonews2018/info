@@ -39,6 +39,8 @@ Crewing Online is an integrated e-commerce online platform under Marine Online, 
 
 You may contact Crewing Online by this email : [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 
+ [Back to Top](seafarer#)
+
 ---
 #### 2. CVS AND JOBS
 
@@ -106,6 +108,8 @@ A: Employers are only able to see your CV information after you have selected  â
 
 A: No, it will depend on your employer.
 
+ [Back to Top](seafarer#)
+
 ---
 #### 3. SOCIAL FUNCTION
 
@@ -137,3 +141,5 @@ A: No however all posts will be vetted through by our content editor.
 ### 3.7. Can I chat with an online user?
 
 A: Yes you may. By tapping on the users profile and the chat icon to the right of the users name. The chat will appear in the Message Tab.
+
+ [Back to Top](seafarer#)
