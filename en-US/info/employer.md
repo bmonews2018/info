@@ -13,22 +13,27 @@ Crewing Online is an online marine crewing service platform for Shipowners and a
 ### 1.2	What are the main services of Crewing Online catered for Shipowners/Employers?
 
 **A: Explore Crewing Online Seafarers’ Database:**
+
 - Search through Crewing Online Database to find which Seafarers’ fits into your vacancies 
 - Filter CVs by suitability and available positions ;
 - Apply for Seafarers’ employment of your choice;
 - Manage and Save your favorite’ CVs;
 
 **B: Post Jobs and received candidates’ CVs**
+
 - Handle invitations between Seafarers 
 - Receive multiple CVs directly from Crewing Online’s system
 - Post available vacancies/jobs required for companies/operation
 
 **C: CVs/Profile Reviews:** 
+
 - Get to review Seafarers’ CVs and profiles
 
 ### 1.3	What is the relationship between Crewing Online and Marine Online?
 
 Crewing Online is an integrated e-commerce online platform under Marine Online; Crewing Online offers comprehensive global crewing services that bring seafarers, ship-owners and manning agencies together. Marine Online (MOL) has more service coverage, including chartering, shipping supply, port agency, bunkering, marine insurance, and ship SNP besides crewing services.
+
+ [Back to Top](employer#)
 
 ---
 
@@ -76,9 +81,12 @@ You are required to fill in the basic company information, contact information a
 
 ### 2.11	How do My RFQ works? 
 
-You may submit your requirements via ‘’ New Manning Enquiry ’’ to receive multiple RFQs from manning agencies. Your enquiry status will be reflected as either ‘’ Pending Verification’, ‘’Open ‘’ or ‘’Appointed’’.  
+You may submit your requirements via ‘’ New Manning Enquiry ’’ to receive multiple RFQs from manning agencies. Your enquiry status will be reflected as either ‘’ Pending Verification’, ‘’Open ‘’ or ‘’Appointed’’. 
+
 -	**Pending Verification:** Upon approval/verification from our platform
+
 -	**Open:** No confirmation from Manning Agencies yet
+
 -	**Appointed:** Select your satisfied quotation and click Appoint
 
 ### 2.12	How do I manage my Subscription? 
@@ -91,8 +99,12 @@ Depends on the trade that each individual company involved in.
 
 ### 2.14	How do I download Saved CVs?
 
-Saved CV: My Business – My Saved CVS Shortlisted CVs: My Business – My Posted Jobs  - Job detail Page – Shortlisted
+**Saved CV:** My Business – My Saved CVS 
+
+**Shortlisted CVs:** My Business – My Posted Jobs  - Job detail Page – Shortlisted
 
 ### 2.15	I have an enquiry, is there any helpline to contact? 
 
 Yes. You may email us at customercare@emarineonline.com, our customer service consultant will be happy to assist you.
+
+ [Back to Top](employer#)
