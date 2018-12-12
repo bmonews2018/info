@@ -62,11 +62,11 @@ You will be able to search for their desired jobs by typing keywords in the sear
 
 ### 2.4. After I post my CV, can everyone see my CV?
 
-Only employers can see your CV and "CV SEARCHABLE BY COMPANIES" must be enabled. This option can be enabled by tapping on Jobs > Manage my CV > tapping on the toggle button beside "CV SEARCHABLE BY COMPANIES".
+Only employers can see your CV and "**CV SEARCHABLE BY COMPANIES**" must be enabled. This option can be enabled by tapping on Jobs > Manage my CV > tapping on the toggle button beside "**CV SEARCHABLE BY COMPANIES**".
 
 ### 2.5. How do I apply for jobs on the app?
 
-After creating your CV, go to "Jobs" > "Recommended" > select the job you are interested > "Apply" or you can simply search a job by inputting the keywords of your desired job.
+After creating your CV, go to "**Jobs**" > "**Recommended**" > select the job you are interested > "**Apply**" or you can simply search a job by inputting the keywords of your desired job.
 
 ### 2.6. I have applied for a particular job in the app, how do they know if they have been shortlisted? How long does it take?  
 
@@ -102,11 +102,11 @@ Ensure that all required fields are filled up in order to proceed to next sectio
 
 ### 2.14. Can I delete/hide my CV if I have already been offered a job?
 
-Yes you may hide their CV from other employers by going to Jobs > Manage my CV > CV SEARCHABLE BY COMPANIES. 
+Yes you may hide their CV from other employers by going to Jobs > Manage my CV > "**CV SEARCHABLE BY COMPANIES**". 
 
 ### 2.15. How are employers able to get seafarers CV information?
 
-Employers are only able to see your CV information after you have selected  “CV searchable by companies” in "My CV"
+Employers are only able to see your CV information after you have selected  “**CV searchable by companies**” in "**My CV**"
 
 ### 2.16. The App only allows me to put my salary in USD, will my salary be in USD?
 
@@ -117,14 +117,14 @@ No, it will depend on your employer.
 ---
 #### 3. SOCIAL FUNCTION
 
-### 3.1. What is "follower" and "following" stands for?
+### 3.1. What is "followers" and "following" stands for?
 
 - **Followers** are users that choose to follow your news feed to check on posts or articles that you published or share. 
 - **Following** are users that you wish to follow to check on their published or shared articles.
 
 ### 3.2. Where are the topics and news from? Can I initiate a post?
 
-Content that appears in the news tab is managed by our content editor. You may forward an existing post or create a new post by clicking the icon "+" at the bottom of the app.
+Content that appears in the news tab is managed by our content editor. You may forward an existing post or create a new post by clicking the icon "**+**" at the bottom of the app.
 
 ### 3.3. Can I share a post with my friend?
 
