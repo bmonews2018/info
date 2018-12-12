@@ -53,15 +53,15 @@ Your posted jobs will be displayed in our Job Data pool and the system will matc
 
 ### 2.4	How do Employers post jobs on the app? 
 
-Employers can do the postings by clicking "My Business" > "Job Management" > "Post Job" > Fill in the requirements > Click "Save".
+Employers can do the postings by clicking "**My Business**" > "**Job Management**" > "**Post Job**" > Fill in the requirements > Click "**Save**".
 
 ### 2.5	Can I check if my postings are still valid or expired? 
 
-You may check your postings at:  "Job Management" > "My Posted Job", there are options for "My Open Jobs", "My Expired Jobs" and "My Closed Jobs".
+You may check your postings at:  "**Job Management**" > "**My Posted Job**", there are options for "**My Open Jobs**", "**My Expired Jobs**" and "**My Closed Jobs**".
 
 ### 2.6	If I’m not satisfied with the job I posted for, can I cancel the posting? 
 
-Yes, you may cancel your postings at: "Job Management" > "My Posted Job", there are options for "My Open Jobs", "My Expired Jobs" and "My Closed Jobs". Click on the position you wish to cancel then click "Close".
+Yes, you may cancel your postings at: "**Job Management**" > "**My Posted Job**", there are options for "**My Open Jobs**", "**My Expired Jobs**" and "**My Closed Jobs**". Click on the position you wish to cancel then click "**Close**".
 
 ### 2.7	If I forget my email address, how can the Customer Service team help to track back my email address? 
 
@@ -81,7 +81,7 @@ You are required to fill in the basic company information, contact information a
 
 ### 2.11	How do My RFQ works? 
 
-You may submit your requirements via "New Manning Enquiry" to receive multiple RFQs from manning agencies. Your enquiry status will be reflected as either "Pending Verification", "Open" or "Appointed". 
+You may submit your requirements via "**New Manning Enquiry**" to receive multiple RFQs from manning agencies. Your enquiry status will be reflected as either "**Pending Verification**", "**Open**" or "**Appointed**". 
 
 -	**Pending Verification:** Upon approval/verification from our platform
 
