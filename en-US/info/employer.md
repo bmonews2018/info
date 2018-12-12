@@ -81,7 +81,7 @@ You are required to fill in the basic company information, contact information a
 
 ### 2.11	How do My RFQ works? 
 
-You may submit your requirements via ‘’ New Manning Enquiry ’’ to receive multiple RFQs from manning agencies. Your enquiry status will be reflected as either ‘’ Pending Verification’, ‘’Open ‘’ or ‘’Appointed’’. 
+You may submit your requirements via "New Manning Enquiry" to receive multiple RFQs from manning agencies. Your enquiry status will be reflected as either "Pending Verification", "Open" or "Appointed". 
 
 -	**Pending Verification:** Upon approval/verification from our platform
 
@@ -105,6 +105,6 @@ Depends on the trade that each individual company involved in.
 
 ### 2.15	I have an enquiry, is there any helpline to contact? 
 
-Yes. You may email us at customercare@emarineonline.com, our customer service consultant will be happy to assist you.
+Yes. You may email us at [mailto](customercare@emarineonline.com), our customer service consultant will be happy to assist you.
 
  [Back to Top](employer#)
