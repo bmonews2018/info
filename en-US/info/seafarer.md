@@ -75,7 +75,7 @@ You will be able to search for their desired jobs by typing keywords in the sear
 
 ### 2.4. After I post my CV, can everyone see my CV?
 
-Only employers can see your CV and "**CV SEARCHABLE BY COMPANIES**" must be enabled. This option can be enabled by tapping on "**Jobs**" > ""**Jobs**"Manage My CV"**Jobs**"" > tapping on the toggle button beside "**CV SEARCHABLE BY COMPANIES**".
+Only employers can see your CV and "**CV SEARCHABLE BY COMPANIES**" must be enabled. This option can be enabled by tapping on "**Jobs**" > "**Manage My CV**" > tapping on the toggle button beside "**CV SEARCHABLE BY COMPANIES**".
 
 
 ### 2.5. How do I apply for jobs on the app?
