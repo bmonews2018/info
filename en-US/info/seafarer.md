@@ -75,7 +75,7 @@ You will be able to search for their desired jobs by typing keywords in the sear
 
 ### 2.4. After I post my CV, can everyone see my CV?
 
-Only employers can see your CV and "**CV SEARCHABLE BY COMPANIES**" must be enabled. This option can be enabled by tapping on "**Jobs**" > "**Manage My CV**" > tapping on the toggle button beside "**CV SEARCHABLE BY COMPANIES**".
+Only employers can see your CV and "**CV Searchable By Companies**" must be enabled. This option can be enabled by tapping on "**Jobs**" > "**Manage My CV**" > tapping on the toggle button beside "**CV Searchable By Companies**".
 
 
 ### 2.5. How do I apply for jobs on the app?
@@ -125,12 +125,12 @@ Ensure that all required fields are filled up in order to proceed to next sectio
 
 ### 2.14. Can I delete/hide my CV if I have already been offered a job?
 
-Yes, you may hide your CV from other employers by going to "**Jobs**" > "**Manage My CV**" > "**CV SEARCHABLE BY COMPANIES**". 
+Yes, you may hide your CV from other employers by going to "**Jobs**" > "**Manage My CV**" > "**CV Searchable By Companies**". 
 
 
 ### 2.15. How are employers able to get seafarers CV information?
 
-Employers are only able to see your CV information after you have selected  “**CV searchable by companies**” in "**My CV**".
+Employers are only able to see your CV information after you have selected  “**CV Searchable By Companies**” in "**My CV**".
 
 
 ### 2.16. The App only allows me to put my salary in USD, will my salary be in USD?
