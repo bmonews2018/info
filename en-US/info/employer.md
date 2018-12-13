@@ -49,13 +49,13 @@ Yes, “**Crewing Online**” is a B2C platform for Seafarers while “**Marine 
 
 “**Marine Online**” is a B2B platform which can cater to different companies’ business requirements and our services are categorized as follow:
 
-•	Chartering 
-•	Port Agency 
-•	Bunkering 
-•	Ship Supply
-•	Crewing
-•	Marine Insurance
-•	Ship Sale And Purchase (SNP)
+- Chartering 
+- Port Agency 
+- Bunkering 
+- Ship Supply
+- Crewing
+- Marine Insurance
+- Ship Sale And Purchase (SNP)
 
 To explore more about “**Marine Online**”, you will be directed to the platform by clicking [HERE](https://www.emarineonline.com/#/).
 
