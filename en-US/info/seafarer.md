@@ -6,11 +6,11 @@ name: I'm Seafarer
 
 #### 1. ABOUT THE PLATFORM
 
-### 1.1. Description of the Crewing Online App?
+### 1.1. Description of the "Crewing Online" App?
 
-Crewing Online is an online marine crewing service platform for Ship owners and also an effective job search engine for Seafarers. Our platform brings Seafarers and Ship owners together in one place and allows them to get connected conveniently.
+"**Crewing Online**" is an online marine crewing service platform for Ship owners and also an effective job search engine for Seafarers. Our platform brings Seafarers and Ship owners together in one place and allows them to get connected conveniently.
 
-### 1.2. What are the main services of Crewing Online?
+### 1.2. What are the main services of "Crewing Online"?
 
 **A: Explore vacancies:**
 
@@ -21,31 +21,32 @@ Crewing Online is an online marine crewing service platform for Ship owners and 
 
 **B: Get in touch with employers:**
 
-- Handle invitations from Companies and Ship Owners
-- Send your CV and scans of marine documents directly to Companies' email
+- Handle invitations from companies and shipowners
+- Send your CV and scans of marine documents directly to companies' email
 - Adjust your effective date and desired salary
 
 **C: Social Networking:**
 
 - Connect with your fellow sea mates
-- Instant Messaging 
+- Instant messaging 
 - Following hot topics, location tag and news feeds
 
 **D: Company Reviews:**
 
-- Reviewing & Provide feedbacks on your favorite maritime companies
+- Reviewing & provide feedbacks on your favorite maritime companies
 
-### 1.3. What is the relationship between Crewing Online and Marine Online?
+### 1.3. What is the relationship between "Crewing Online" and "Marine Online"?
 
-Crewing Online is an integrated e-commerce online platform under Marine Online, Crewing Online offers comprehensive global crewing services that brings seafarers, ship-owners and manning agencies together. Marine Online (MOL) has more service coverage, including chartering, shipping supply, port agency, bunkering, marine insurance and ship SNP besides crewing services.
+"**Crewing Online**" is an integrated e-commerce online platform under "**Marine Online**", "**Crewing Online**" offers comprehensive global crewing services that brings seafarers, ship-owners and manning agencies together. "**Marine Online**" (**MOL**) has more service coverage, including chartering, shipping supply, port agency, bunkering, marine insurance and ship SNP besides crewing services.
 
-### 1.4. How can I contact Crewing Online?
+### 1.4. How can I contact "Crewing Online"?
 
-You may contact Crewing Online by this email : [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
+You may contact "**Crewing Online**" by this email : [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 
  [Back to Top](seafarer#)
 
 ---
+
 #### 2. CVS AND JOBS
 
 ### 2.1. Is there a fee to use your app and post my CV?
@@ -54,7 +55,7 @@ No, usage and creation of CV is free of charge.
 
 ### 2.2. Who provides the jobs on the platform?
 
-Crewing online is a platform which brings worldwide ship owners and manning agencies together. Through this platform they will be able to recruit the well trained and skilled seamen directly. 
+"**Crewing online**" is a platform which brings worldwide ship owners and manning agencies together. Through this platform they will be able to recruit the well trained and skilled seamen directly. 
 
 ### 2.3.Is there a filter function in the jobs tabs?
 
@@ -62,7 +63,7 @@ You will be able to search for their desired jobs by typing keywords in the sear
 
 ### 2.4. After I post my CV, can everyone see my CV?
 
-Only employers can see your CV and "**CV SEARCHABLE BY COMPANIES**" must be enabled. This option can be enabled by tapping on Jobs > Manage my CV > tapping on the toggle button beside "**CV SEARCHABLE BY COMPANIES**".
+Only employers can see your CV and "**CV SEARCHABLE BY COMPANIES**" must be enabled. This option can be enabled by tapping on Jobs > Manage My CV > tapping on the toggle button beside "**CV SEARCHABLE BY COMPANIES**".
 
 ### 2.5. How do I apply for jobs on the app?
 
@@ -70,7 +71,7 @@ After creating your CV, go to "**Jobs**" > "**Recommended**" > select the job yo
 
 ### 2.6. I have applied for a particular job in the app, how do they know if they have been shortlisted? How long does it take?  
 
-You will be notified in the notification bar if you have been shortlisted by employer. Tap on the bell icon on top right of screen to view notification bar. Duration is dependent on how fast employer. If you have been shortlisted by employer, you will be notified in the notification bar (top right corner Bell icon). To check for an applied job , tap on Jobs > Applied.
+You will be notified in the notification bar if you have been shortlisted by employer. Tap on the bell icon on top right of screen to view notification bar. Duration is dependent on how fast employer. If you have been shortlisted by employer, you will be notified in the notification bar (top right corner bell icon). To check for an applied job , tap on "**Jobs**" > "**Applied**".
 
 ### 2.7. If I’m not satisfied with the job I applied for, can I cancel the application?
 
@@ -78,15 +79,15 @@ Unable to, once application has been sent out it cannot be cancelled, however Yo
 
 ### 2.8. Can I make a comment on the employer?
 
-Yes you may by tapping on company’s detail > Write review
+Yes, you may by tapping on Company’s Detail > Write Review.
 
 ### 2.9. Where are the reviews/comments from when I check the detail information of an employer?
 
 Comments and reviews come from other seafarers using the app.
 
-### 2.10. If I forget my email address, how can the Customer Service team help to track back my email address?
+### 2.10. If I forget my email address, how can the customer service team help to track back my email address?
 
-You can provide information such as your name or address and Customer Service team may able to find relevant department to help trace back your email based on the information provided.
+You can provide information such as your name or address and customer service team may able to find relevant department to help trace back your email based on the information provided.
 
 ### 2.11. Will I be able to tag other locations in their post other than the given location options provided?
 
@@ -94,7 +95,7 @@ No, this feature is restricted at the moment but should be available in followin
 
 ### 2.12. How do I upload my CV?
 
-Tap on Jobs > Upload CV (banner in yellow) and provide necessary information.
+Tap on "**Jobs**" > "**Upload CV**" (banner in yellow) and provide necessary information.
 
 ### 2.13. Why can’t I save my CV?
 
@@ -102,11 +103,11 @@ Ensure that all required fields are filled up in order to proceed to next sectio
 
 ### 2.14. Can I delete/hide my CV if I have already been offered a job?
 
-Yes you may hide their CV from other employers by going to Jobs > Manage my CV > "**CV SEARCHABLE BY COMPANIES**". 
+Yes, you may hide your CV from other employers by going to "**Jobs**" > "**Manage My CV**" > "**CV SEARCHABLE BY COMPANIES**". 
 
 ### 2.15. How are employers able to get seafarers CV information?
 
-Employers are only able to see your CV information after you have selected  “**CV searchable by companies**” in "**My CV**"
+Employers are only able to see your CV information after you have selected  “**CV searchable by companies**” in "**My CV**".
 
 ### 2.16. The App only allows me to put my salary in USD, will my salary be in USD?
 
@@ -115,6 +116,7 @@ No, it will depend on your employer.
  [Back to Top](seafarer#)
 
 ---
+
 #### 3. SOCIAL FUNCTION
 
 ### 3.1. What is "followers" and "following" stands for?
@@ -128,11 +130,11 @@ Content that appears in the news tab is managed by our content editor. You may f
 
 ### 3.3. Can I share a post with my friend?
 
-Yes you may share a post to his friend by tapping on the share button of the post he/she wishes to share.
+Yes, you may share a post to his friend by tapping on the share button of the post he/she wishes to share.
 
 ### 3.4. Will others be able to see my posts in the recommended tab? If so, is there a way to not allow my posts to be viewed in the recommended tab?
 
-Yes others will be able to see your posts in their recommended tab. Privacy settings may be implemented in the following updates.
+Yes, others will be able to see your posts in their recommended tab. Privacy settings may be implemented in the following updates.
 
 ### 3.5. Can I manage the comments/articles I posted before?
 
@@ -140,10 +142,11 @@ Yes, you may delete the comments that he/she has posted before but may not edit 
 
 ### 3.6. Any report or block function the app? In a case of article or message or images content improper information.
 
-No however all posts will be vetted through by our content editor.
+No, however all posts will be vetted through by our content editor.
 
 ### 3.7. Can I chat with an online user?
 
-Yes you may. By tapping on the users profile and the chat icon to the right of the users name. The chat will appear in the Message Tab.
+Yes, you may. By tapping on the users profile and the chat icon to the right of the users name. The chat will appear in the "**Message Tab**".
 
  [Back to Top](seafarer#)
+ 
