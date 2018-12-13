@@ -4,6 +4,9 @@ name: I'm Employer
 
 ## I'm Employer
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/transaction.jpg)
+
+
 #### 1.	ABOUT THE PLATFORM
 
 
