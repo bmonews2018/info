@@ -6,11 +6,11 @@ name: I'm Employer
 
 #### 1.	ABOUT THE PLATFORM
 
-### 1.1	Description of the “Crewing Online” App?
+### 1.1.	Description of the “Crewing Online” App?
 
 “**Crewing Online**” is an online marine crewing service platform for shipowners and also an effective job search engine for seafarers. Our platform brings seafarers and shipowners together in one place and allows them to get connected conveniently.
 
-### 1.2	What are the main services of “Crewing Online” catered for Shipowners/Employers?
+### 1.2.	What are the main services of “Crewing Online” catered for Shipowners/Employers?
 
 **A: Explore Crewing Online Seafarers’ Database:**
 
@@ -65,27 +65,27 @@ To explore more about “**Marine Online**”, you will be directed to the platf
 
 #### 2.	JOB POSTINGS ([MARINE ONLINE](https://www.emarineonline.com/#/))
 
-### 2.1	Is there a fee to use your app and post my required job position? 
+### 2.1.	Is there a fee to use your app and post my required job position? 
 
 No, usage and creation of any numbers of positions are free of charge.
 
-### 2.2	Who provides the jobs on the platform? 
+### 2.2.	Who provides the jobs on the platform? 
 
 Shipowners and manning agencies provide the jobs in “**Crewing Online**” as this platform brings worldwide ship owners and manning agencies together. Through this platform, employers will be able to recruit the well trained and skilled seamen directly and seafarers are able to be employed by their preferred employers.
 
-### 2.3	After posting for employer job requirements, can seafarers see my job post? 
+### 2.3.	After posting for employer job requirements, can seafarers see my job post? 
 
 Your posted jobs will be displayed in our job data pool and the system will match the most suitable jobs to crew directly.
 
-### 2.4	How do employers post jobs on the app? 
+### 2.4.	How do employers post jobs on the app? 
 
 Employers can do the postings by clicking "**My Business**" > "**Job Management**" > "**Post Job**" > Fill In The Requirements > Click "**Save**".
 
-### 2.5	Can I check if my postings are still valid or expired? 
+### 2.5.	Can I check if my postings are still valid or expired? 
 
 You may check your postings at:  "**Job Management**" > "**My Posted Job**", there are options for "**My Open Jobs**", "**My Expired Jobs**" and "**My Closed Jobs**".
 
-### 2.6	If I’m not satisfied with the job I posted for, can I cancel the posting? 
+### 2.6.	If I’m not satisfied with the job I posted for, can I cancel the posting? 
 
 Yes, you may cancel your postings at: "**Job Management**" > "**My Posted Job**", there are options for "**My Open Jobs**", "**My Expired Jobs**" and "**My Closed Jobs**". Click on the position you wish to cancel then click "**Close**".
 
