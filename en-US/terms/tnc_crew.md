@@ -4,6 +4,8 @@ name: Terms of Use (Crewing)
 
 ## Terms of Use (Crewing)
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/terms_of_use)
+
 ### Crewing
 
 By registering onto, browsing or usage of the website [ecrewingonline.com](ecrewingonline.com) (hereinafter referred to as the "Site") Users shall be deemed to have unconditionally and unreservedly agreed to comply with the terms and conditions set out below.
