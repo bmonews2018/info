@@ -4,6 +4,8 @@ name: I'm Seafarer
 
 ## I'm Seafarer
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/supplier.jpg)
+
 
 #### 1. ABOUT THE PLATFORM
 
