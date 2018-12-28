@@ -6,13 +6,13 @@ name: I'm Seafarer
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/supplier.jpg)
 
-  * [1 ABOUT THE PLATFORM](#1-about-the-platform)
-  * [2 CVS AND JOBS](#2-cvs-and-jobs)
-  * [3 SOCIAL FUNCTION](#3-social-function)
+  * [ABOUT THE PLATFORM](#about-the-platform)
+  * [CVS AND JOBS](#cvs-and-jobs)
+  * [SOCIAL FUNCTION](#social-function)
 
 ---
 
-### 1 ABOUT THE PLATFORM
+### ABOUT THE PLATFORM
 
 
 **1.1. Description of the "Crewing Online" App?**
@@ -59,7 +59,7 @@ You may contact "**Crewing Online**" by this email : [customercare@emarineonline
 
 ---
 
-### 2 CVS AND JOBS
+### CVS AND JOBS
 
 
 **2.1. Is there a fee to use your app and post my CV?**
@@ -147,7 +147,7 @@ No, it will depend on your employer.
 
 ---
 
-### 3 SOCIAL FUNCTION
+### SOCIAL FUNCTION
 
 
 **3.1. What is "followers" and "following" stands for?**
