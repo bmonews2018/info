@@ -9,6 +9,8 @@ name: I'm Employer
   * [ABOUT THE PLATFORM](#about-the-platform)
   * [JOB POSTINGS](#job-postings)
 
+---
+
 ### ABOUT THE PLATFORM
 
 
