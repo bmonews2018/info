@@ -135,8 +135,8 @@ You may select your preference to receive daily news update from us via **Push**
 
 **2.11. How do I download Saved CVs?**
 
-- **Saved CV**: "**My Business**" > "**My Saved CVs**"
-- **Shortlisted CVs**: "**My Business**" > "**My Posted Jobs**" > "**Job Detail Page**" > "**Shortlisted**"
+- **Saved CV**: "My Business" > "My Saved CVs"
+- **Shortlisted CVs**: "My Business" > "My Posted Jobs" > "Job Detail Page" > "Shortlisted"
 
 
  [Back to Top](employer#)
