@@ -52,7 +52,7 @@ name: I'm Seafarer
 
 **1.4. How can I contact "Crewing Online"?**
 
-You may contact "**Crewing Online**" by this email : [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
+You may contact "**Crewing Online**" by this email : [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
 
  [Back to Top](seafarer#)
