@@ -203,7 +203,7 @@ xi.	any other party to whom you authorise us to disclose your Personal Data to.
 
 ### 7.  Anti-Spam
 
-7.1 If you receive spam messages and want to report it to us, please forward the message you have received to [customercare@emarineonline.com](mailto:customercare@emarineonline.com).
+7.1 If you receive spam messages and want to report it to us, please forward the message you have received to [customercare@marineonline.com](mailto:customercare@marineonline.com).
 
 ### 8.  Third-Party Sites
 
