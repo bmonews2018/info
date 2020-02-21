@@ -53,7 +53,7 @@ You can provide information such as your name or address and Customer Service te
 
 **1.5. I have an enquiry, is there any helpline to contact?**
 
-Yes. You may email us at [customercare@emarineonline.com](mailto:customercare@emarineonline.com), our customer service consultant will be happy to assist you.
+Yes. You may email us at [customercare@marineonline.com](mailto:customercare@marineonline.com), our customer service consultant will be happy to assist you.
 
 
 **1.6. Other than recruiting Seafarers from “Crewing Online”, can Employers engage in other services within “Marine Online”?**
@@ -70,7 +70,7 @@ Yes, “**Crewing Online**” is a B2C platform for Seafarers while “**Marine 
 - **Marine Insurance**
 - **Ship Sale And Purchase (SNP)**
 
-To explore more about “**Marine Online**”, you will be directed to the platform by clicking [HERE](https://www.emarineonline.com/#/).
+To explore more about “**Marine Online**”, you will be directed to the platform by clicking [HERE](https://www.marineonline.com/#/).
 
 
  [Back to Top](employer#)
@@ -80,7 +80,7 @@ To explore more about “**Marine Online**”, you will be directed to the platf
 
 ### JOB POSTINGS 
 
-**PLATFORM:** [MARINE ONLINE](https://www.emarineonline.com/#/)
+**PLATFORM:** [MARINE ONLINE](https://www.marineonline.com/#/)
 
 **2.1.	Is there a fee to use your app and post my required job position?**
 
