@@ -8,7 +8,16 @@ name: Contact Us
 
 ### Customer Service
 
-**Customer Service Hotline: +65 6571 5888**
+**Hotline: +65 6571 5888**
+
+WhatsApp: +65 9111 8388
+
+<html>
+<body>
+<h4>Scan and chat with us:</h4>
+<img src="https://marineonline.oss-cn-hongkong.aliyuncs.com/wechat_qr_code_2.png" alt="Trulli" width="300" height="170">
+  </body>
+</html>
 
 Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
