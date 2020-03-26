@@ -223,7 +223,7 @@ iii. would like to obtain access and make corrections to your Personal Data reco
 
 Please contact **Marine Online Pte Ltd** as follows:
 
-Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
+Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
 Call: +65 6571 5888 (Customer Service Hotline)
 
