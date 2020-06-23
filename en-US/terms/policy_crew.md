@@ -210,6 +210,8 @@ xi. any other party to whom you authorise us to disclose your Personal Data to.
 
 8.1 Our website may contain links to other websites operated by third parties. We are not responsible for the privacy practices of websites operated by third parties that are linked to our website. We encourage you to learn about the privacy policies of such third party websites. Some of these third party websites may be co-branded with our logo or trademark, even though they are not operated or maintained by us. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
 
+8.2 The Site and/or its product integration (友盟+SDK) may collect certain information relating to your device (such as IMEI/Android ID/IDFA and other technical or personal data). For the avoidance of doubt, the Site has signed or will be signing the necessary data security and confidentiality agreements with all third party SDK service providers insofar as the Personal Data Protection Act 2012 (PDPA) is concerned.  These third parties shall be responsible to abide by the same data privacy required under the PDPA. The Site shall not share your personal information without User’s express consent. For more information on the data collected by (友盟+) or its privacy policy, as well as on how to protect your personal information, you may log on to https://www.umeng.com/policy. 
+
 ### 9.   Contacting Us – Feedback, Withdrawal of Consent, Access and Correction of your Personal Data
 
 9.1 If you:
