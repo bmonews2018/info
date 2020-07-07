@@ -63,5 +63,9 @@ d. To remove any information or material provided by any User, which the Site, i
 
 e. To amend and/or supplement the Terms and Conditions herein.
 
+f. Users' rights to report.  Where any inappropriate or illegitimate posts or comments have been reported to the Site by any User of the platform, then subject to the terms herein, in particular, clause 1, the Site's moderator shall have the ultimate discretion to investigate and look into such report, and shall have the right to, inter alia, remove such posts to the extent permissible by all applicable laws. 
+
+h. Insofar as clause 3(g) is concerned, the Site is committed to fair comments and allows administrators and moderators to remove offensive, illegitimate or otherwise inappropriate comments. The Site administrators will also evaluate and ban/block repeat offenders at their discretion.
+
  [Back to Top](tnc_crew#)
  
