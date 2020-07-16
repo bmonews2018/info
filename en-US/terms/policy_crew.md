@@ -35,7 +35,7 @@ iv. when you submit your Personal Data to us for business related reason.
 v. When you browse our website, you generally do so anonymously but please see the section below on cookies. Our website does not automatically collect Personal Data, including your email address unless you provide such information or login with your account credentials.
 
 vi. when you submit any form, including but not limited to application, declaration, proposal or referral forms;
- 
+
 vii. when you use some of our services provided through online and other technology platforms, eg. websites and apps including when you establish any online accounts with us;
 
 viii. when you interact with our staff, including customer service officers, relationship managers and other representatives, for e.g. via telephone calls (which may be recorded), letters, face-to-face meetings, digital platforms (including social media) and email;
